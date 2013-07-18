@@ -22,6 +22,10 @@ Example,
 
 `lein run naruto 100`
 
+## Roadmap
+
+- [ ] add optional possibility to zip images into archive
+- [ ] make package for manga-clj distribution as CLI to decouple from Leiningen
 
 ## Used resources
 
